@@ -78,11 +78,3 @@ mysite/
 ├── requirements.txt  # Project dependencies
 └── manage.py         # Django management script
 ```
-
-## 🌐 Deployment
-
-This project is configured to run easily on modern PaaS providers like **Railway**.
-
-1. The `Procfile` is pre-configured to use Gunicorn: `web: gunicorn mysite.wsgi`
-2. Static files are managed via Whitenoise (`STATIC_ROOT` configured in `settings.py`).
-3. Make sure to set `DEBUG = False` and update `ALLOWED_HOSTS` in production, as well as setting up a production database (like PostgreSQL) if desired.
