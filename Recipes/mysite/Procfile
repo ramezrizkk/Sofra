@@ -1,3 +1,1 @@
-web: gunicorn mysite.wsgi --log-file - 
-#or works good with external database
-web: python manage.py migrate && gunicorn mysite.wsgi
+web: python manage.py collectstatic --noinput && python manage.py migrate && gunicorn mysite.wsgi --log-file -
