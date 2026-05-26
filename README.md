@@ -70,8 +70,7 @@ mysite/
 │
 ├── mysite/           # Django core settings and routing
 ├── users/            # User authentication and profile management
-├── recipes/          # Core app handling recipe models, views, and ratings
-├── favorites/        # Logic handling user favorite recipes
+├── recipes/          # Core app handling recipe models, views, favorites, and ratings
 ├── templates/        # HTML templates for the frontend
 ├── static/           # CSS, JavaScript, and static images
 ├── media/            # User-uploaded content (recipe images, avatars)
