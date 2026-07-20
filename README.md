@@ -10,7 +10,6 @@ Welcome to **Sofra**, a premium recipe sharing and discovery web application bui
 - **Discover & Search**: Easily find what you are craving by searching recipes by name or ingredients.
 - **Ratings & Favorites**: Rate recipes out of 5 stars and add them to your personal favorites list for quick access later.
 - **Admin Dashboard**: Dedicated staff dashboard for easy recipe management and moderation.
-- **Production Ready**: Fully configured for deployment on platforms like Railway using Gunicorn and Whitenoise for static file serving.
 
 ## 🛠️ Technology Stack
 
@@ -18,7 +17,6 @@ Welcome to **Sofra**, a premium recipe sharing and discovery web application bui
 - **Frontend**: HTML5, Vanilla CSS, JavaScript
 - **Database**: SQLite (Development)
 - **Media Storage**: Django File System (Local/Media Root)
-- **Deployment**: Gunicorn, Whitenoise (for static files)
 
 ## 🚀 Getting Started
 
