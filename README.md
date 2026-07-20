@@ -1,10 +1,10 @@
 # Sofra Website 🍽️
 
-Welcome to **Sofra**, a premium recipe sharing and discovery web application built with Django. Sofra provides a beautiful, dark-mode-ready interface for food enthusiasts to explore, manage, rate, and save their favorite recipes.
+Welcome to **Sofra**, a premium recipe sharing and discovery web application built with Django. Sofra provides a beautiful interface for food enthusiasts to explore, manage, rate, and save their favorite recipes.
 
 ## ✨ Features
 
-- **Premium Modern UI**: A visually stunning, dark-mode-ready design built with Vanilla HTML/CSS/JS, focusing on beautiful typography, subtle animations, and a polished user experience.
+- **Premium Modern UI**: A visually stunning design built with Vanilla HTML/CSS/JS, focusing on beautiful typography, subtle animations, and a polished user experience.
 - **User Authentication**: Secure sign-up, login, and personalized user profiles with custom avatars.
 - **Recipe Management**: Full CRUD functionality. Users can create, read, edit, and delete their own recipes.
 - **Discover & Search**: Easily find what you are craving by searching recipes by name or ingredients.
